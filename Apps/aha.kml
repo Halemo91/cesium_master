@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="aha_1" id="aha_1">
+            <SimpleField type="string" name="bin"/>
+        </Schema>
+        <Folder>
+            <name>aha</name>
+            <Placemark id="aha.1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#aha_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <MultiGeometry>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>-75.65401597699137,52.42093044506468,14.613559 -75.65400528928046,52.420946931298054,14.613559 -75.65402685956475,52.42095215823481,10.484536 -75.65403754727006,52.42093567200017,10.484536 -75.65401597699137,52.42093044506468,14.613559</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>-75.65402685956475,52.42095215823481,10.484536 -75.65400528928046,52.420946931298054,14.613559 -75.65398380369142,52.4209417248796,10.500748 -75.65398380369142,52.4209417248796 -75.65402685956475,52.42095215823481 -75.65402685956475,52.42095215823481,10.484536</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>-75.65400528928046,52.420946931298054,14.613559 -75.65401597699137,52.42093044506468,14.613559 -75.65399449140787,52.42092523864746,10.500748 -75.65398380369142,52.4209417248796,10.500748 -75.65400528928046,52.420946931298054,14.613559</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>-75.65401597699137,52.42093044506468,14.613559 -75.65403754727006,52.42093567200017,10.484536 -75.65403754727006,52.42093567200017 -75.65399449140787,52.42092523864746 -75.65399449140787,52.42092523864746,10.500748 -75.65401597699137,52.42093044506468,14.613559</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>-75.65403754727006,52.42093567200017,10.484536 -75.65402685956475,52.42095215823481,10.484536 -75.65402685956475,52.42095215823481 -75.65403754727006,52.42093567200017 -75.65403754727006,52.42093567200017,10.484536</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>-75.65403754727006,52.42093567200017 -75.65402685956475,52.42095215823481 -75.65398380369142,52.4209417248796 -75.65399449140787,52.42092523864746 -75.65403754727006,52.42093567200017</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                    <Polygon>
+                        <outerBoundaryIs>
+                            <LinearRing>
+<tessellate>1</tessellate>
+<coordinates>-75.65398380369142,52.4209417248796,10.500748 -75.65399449140787,52.42092523864746,10.500748 -75.65399449140787,52.42092523864746 -75.65398380369142,52.4209417248796 -75.65398380369142,52.4209417248796,10.500748</coordinates>
+                            </LinearRing>
+                        </outerBoundaryIs>
+                    </Polygon>
+                </MultiGeometry>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

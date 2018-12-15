@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="nyc_buildings_1" id="nyc_buildings_1">
+            <SimpleField type="string" name="bin"/>
+        </Schema>
+        <Folder>
+            <name>nyc_buildings</name>
+            <Placemark id="nyc_buildings.1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98491055031536,40.740059017006146 -73.98497369510855,40.740085904614496 -73.98504876170372,40.7401178742716 -73.98488088702211,40.740347173600654 -73.98480556045378,40.74031508852132 -73.98472899270607,40.740282489959455 -73.98479822743396,40.740189764944034 -73.98481947657686,40.74019882542698 -73.9848708034873,40.740129115491655 -73.98484753011468,40.74011920662354 -73.98488251214117,40.740071367456025 -73.98489601253999,40.74005303428674 -73.98491055031536,40.740059017006146</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99500641203554,40.741706339047816 -73.99497717481086,40.741747039687695 -73.99460553330123,40.74159265808738 -73.99465873513671,40.741518585227595 -73.99476387886241,40.7413724375535 -73.9951348119805,40.74152989822838 -73.99500641203554,40.741706339047816</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.97908455670203,40.74851528762056 -73.97901910757258,40.748487575717014 -73.97912279723356,40.74834657487571 -73.97918848082637,40.74837438557423 -73.97908455670203,40.74851528762056</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.97787783308142,40.74714389555518 -73.97784019555827,40.747195794266126 -73.97770912759883,40.74714081910238 -73.97774711860743,40.74708972196881 -73.97787783308142,40.74714389555518</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98723139305791,40.75253369679031 -73.98718352943814,40.752725156768115 -73.9871666442348,40.75272965901737 -73.98714115953902,40.752726450311215 -73.9867885739306,40.75257916847698 -73.98691625856819,40.752403143230126 -73.98693001604374,40.752408925228615 -73.98692975610221,40.75240929573993 -73.98723139305791,40.75253369679031</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99058796069077,40.74759204414247 -73.99038178227323,40.74750481272131 -73.99054575833969,40.74727540373115 -73.99071382697646,40.7473488366883 -73.99071432499797,40.74734899866861 -73.9906517422196,40.74746936456099 -73.99058796069077,40.74759204414247</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.9872987584101,40.74317476219824 -73.98720599108644,40.74330521540414 -73.98716243643408,40.743286957967925 -73.9870470611788,40.74344611037528 -73.98708812963928,40.7434633245709 -73.98696293573211,40.74363370181719 -73.98695255036317,40.74364805568469 -73.98669211679768,40.74353883972337 -73.98669992119568,40.74352805375644 -73.98682478457809,40.74335256603054 -73.98686978618996,40.74337143034907 -73.98695460506708,40.74325443677077 -73.98691029273617,40.74323584429371 -73.98702825893784,40.74307732360307 -73.98704179541701,40.743059124686866 -73.98704724252653,40.743051634875684 -73.98710853272459,40.743077332616245 -73.98730857689824,40.743161209703224 -73.9872987584101,40.74317476219824</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.9971202574932,40.759895385398856 -73.99713700385003,40.759872549548255 -73.99719926995893,40.75989892806628 -73.99712368570117,40.7600021862074 -73.99712754801158,40.76000379746831 -73.99704455956717,40.76011716151721 -73.99697748166899,40.76008877638267 -73.99704611712296,40.759995808204955 -73.9971202574932,40.759895385398856</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99341347293762,40.7627380733998 -73.9936053610535,40.76281986656055 -73.99355658539955,40.76288739274397 -73.9933560264804,40.76280361729893 -73.99340575179134,40.76273483141709 -73.99341347293762,40.7627380733998</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.10">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98114013788867,40.74467219785745 -73.981179937595,40.74461725722074 -73.98130357006085,40.744669092743855 -73.98126287147649,40.744725240966574 -73.98114013788867,40.74467219785745</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.11">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98096611937427,40.74154789666215 -73.98092779075512,40.741600435835025 -73.98070685725413,40.741505674933165 -73.98073229783408,40.741470820853614 -73.98074501647551,40.74145282015841 -73.98096611937427,40.74154789666215</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.12">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99809304592073,40.74296959047924 -73.99820356522491,40.74281802713594 -73.998277619978,40.7428494282127 -73.99816819423755,40.74300146099612 -73.99809304592073,40.74296959047924</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.13">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98245716640739,40.74990702346483 -73.98254728696617,40.74978308983427 -73.98262862464952,40.74981716170544 -73.982540652296,40.74993860623842 -73.98253875680663,40.74994121071671 -73.98253253891454,40.749938605008346 -73.98245716640739,40.74990702346483</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.14">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98370481204344,40.75973027871267 -73.98375794495469,40.759751925776555 -73.98368864064102,40.75984823453494 -73.98363384749872,40.7598254426454 -73.98370481204344,40.75973027871267</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.15">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99103507799059,40.76543886531941 -73.99099294155295,40.76549646866759 -73.99079770594004,40.76541567824114 -73.99084158645026,40.7653556816877 -73.99103507799059,40.76543886531941</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.16">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99510975213114,40.74921386729144 -73.99513213451154,40.74918306942225 -73.99537614324245,40.74928559306853 -73.99537061220309,40.74931246392884 -73.9953593872986,40.74932016249516 -73.99510975213114,40.74921386729144</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.17">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.9890110745062,40.75398458584223 -73.9889470991022,40.753958230158545 -73.98910721068658,40.75373883040097 -73.98917257170743,40.753766607905355 -73.9890110745062,40.75398458584223</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.18">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98024257837736,40.747742161939655 -73.98022460884661,40.74776694119126 -73.98014720465515,40.74773448220211 -73.98024536652566,40.74760163128637 -73.98032324333847,40.74763427693384 -73.98024257837736,40.747742161939655</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.19">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98709309139224,40.74871830125302 -73.98692758511481,40.74894233912583 -73.98685493224865,40.74891412582555 -73.98701742191474,40.748687974260115 -73.98709309139224,40.74871830125302</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.20">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99294771314412,40.755671540398374 -73.99290600764452,40.75565386991114 -73.99307903026869,40.75541742610164 -73.99315916384637,40.75545135319831 -73.99298589960708,40.75568758027742 -73.99294771314412,40.755671540398374</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.21">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98505459280591,40.76299604189765 -73.9851355215883,40.76303170382843 -73.98508835848116,40.76309718180022 -73.98500672938101,40.76306129467663 -73.98505459280591,40.76299604189765</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.22">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.97461448760414,40.75980910464278 -73.97460852846794,40.7598173595191 -73.97447932215486,40.759763533988 -73.97448713044199,40.75975272142648 -73.97465986560184,40.759513450815014 -73.97476193088171,40.75955650806168 -73.97479023353019,40.759568231570775 -73.97475473160554,40.75961782131998 -73.97461448760414,40.75980910464278</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.23">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98771309480588,40.74638130340149 -73.98763414766691,40.74634821798076 -73.98776443479798,40.74617121204198 -73.98784414002063,40.746202387108816 -73.98771309480588,40.74638130340149</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.24">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98435514466769,40.7499530051783 -73.98432059393345,40.74993886228467 -73.98380176089698,40.74972642660898 -73.98394254018734,40.74952755914515 -73.98397251829707,40.74953986528054 -73.9840086894575,40.74955315214308 -73.98399460546165,40.74957297001146 -73.98428379191249,40.74969180526486 -73.98434791656999,40.74971815259671 -73.98434825940446,40.74971829811494 -73.98439895570459,40.749646966251355 -73.98453776802486,40.749704015339915 -73.98447605733982,40.749788150028564 -73.98436552070085,40.74993886839154 -73.98435514466769,40.7499530051783</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.25">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98563551224649,40.740908396185866 -73.98560084793093,40.740956018780835 -73.98547435415892,40.74090222498497 -73.98550941199346,40.74085408646397 -73.98563551224649,40.740908396185866</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.26">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.9751767767551,40.7437198436544 -73.97509422136658,40.74383582172093 -73.97518587080918,40.743875327479486 -73.97514356860988,40.74393209625984 -73.97494077079438,40.74384467593687 -73.9749486735533,40.74383659162199 -73.97492011773807,40.743824832386935 -73.9750496215915,40.7436674792807 -73.9751767767551,40.7437198436544</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.27">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.9963698007277,40.76316211624288 -73.99642590586622,40.76308540519065 -73.99639531654542,40.76307247101114 -73.99641142496017,40.76305043672149 -73.99646766541152,40.76307422165308 -73.99639545189194,40.76317295878086 -73.9963698007277,40.76316211624288</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.28">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99381016183604,40.76006898914333 -73.99379459017406,40.76006251620001 -73.99378311343376,40.760078489989446 -73.99379379413871,40.76008291234737 -73.99374668854901,40.76014848447082 -73.99367699864987,40.760119537345055 -73.99382149979418,40.75991466379221 -73.9938258680892,40.759908592653275 -73.9939033436545,40.75994076243128 -73.99381016183604,40.76006898914333</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.29">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98164657899831,40.742205298100124 -73.98152858709288,40.7421555800341 -73.98160581027079,40.74205144831303 -73.98169374479559,40.742088516459965 -73.981727275299,40.74204251701595 -73.98175914390667,40.742055946644136 -73.98171079760444,40.742122279604324 -73.98164657899831,40.742205298100124</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.30">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.97874002653163,40.748991265445476 -73.9786388368034,40.74913029566404 -73.97859410791233,40.74911146662243 -73.97869535905129,40.748972463901616 -73.97874002653163,40.748991265445476</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.31">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98754709191074,40.746311730885175 -73.98747921634559,40.74628328518051 -73.98760528763287,40.74611099444088 -73.9876321693399,40.7460988161335 -73.9876732755803,40.74611654887546 -73.98767533262479,40.7461363606955 -73.98754709191074,40.746311730885175</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.32">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99800708332594,40.750258440182634 -73.9979953277373,40.75027547662683 -73.99796666041928,40.75026403327171 -73.99791681909055,40.75033619728394 -73.99786585455378,40.7503158275794 -73.9980151290379,40.750108253222024 -73.99804968271657,40.750124112964095 -73.99808921751263,40.75012423988511 -73.9980999835272,40.75012867008589 -73.99800708332594,40.750258440182634</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.33">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98939422940113,40.76029871243721 -73.98933125135254,40.76027191517981 -73.98942116129687,40.760140892154766 -73.98948509568916,40.76016858698203 -73.98939422940113,40.76029871243721</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.34">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99222629208288,40.76381156971338 -73.99218052193228,40.763874223589916 -73.99194067724753,40.76377322525242 -73.99198633201799,40.76371073340199 -73.99222629208288,40.76381156971338</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.35">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.9964222661143,40.75900477603144 -73.99633866855827,40.75897087855988 -73.9964118380712,40.758866558627076 -73.9965022539986,40.7589032558923 -73.9964222661143,40.75900477603144</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.36">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.97935101600646,40.742003060429404 -73.9793238307366,40.742040326524204 -73.97924983267554,40.74200909167467 -73.9791663738527,40.7419738779224 -73.9792122496042,40.741910759685915 -73.97924908980326,40.74192629887494 -73.97924985878319,40.741925264242376 -73.97925855229603,40.7419133426104 -73.97924986364039,40.741909668568596 -73.97924282034154,40.741906702968386 -73.97924986757008,40.74189705094932 -73.97934012394641,40.74177329263163 -73.97945644289756,40.74182239233071 -73.97935908170919,40.74195581922297 -73.97934341828338,40.74194923450204 -73.97933370669965,40.74196251460938 -73.9793693490122,40.741977559489676 -73.97935101600646,40.742003060429404</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.37">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98211637168345,40.74998906097274 -73.98197563824655,40.75018145133982 -73.9819429919792,40.75022632559556 -73.98178489598169,40.750159825659445 -73.98190808680563,40.74999035141435 -73.98181598805012,40.7499516057762 -73.9817856675051,40.74993848932548 -73.9817693380109,40.74993141901662 -73.98160270879508,40.749859298977874 -73.98159368696527,40.74985550429511 -73.98164167438775,40.74978947881067 -73.98181860336936,40.74986387032645 -73.98199616427785,40.74993852241942 -73.98211637168345,40.74998906097274</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.75">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98967387445593,40.76404557257128 -73.9897652424917,40.76392186147378 -73.98984390106764,40.763954942577335 -73.9898296497367,40.76397456348151 -73.98975227309747,40.76407943870969 -73.98967387445593,40.76404557257128</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.38">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98036366104182,40.74372778899932 -73.98035070015226,40.74374551787513 -73.98031359889588,40.743729841760576 -73.98034338730324,40.74368903515756 -73.98032978737663,40.743683260625964 -73.98039888795944,40.743588666355635 -73.9803850246263,40.74358282042212 -73.9804367274219,40.74351127357638 -73.98044679643964,40.74349746095807 -73.9805116458942,40.74352487553628 -73.98036366104182,40.74372778899932</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.39">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.97746885921529,40.76366721509346 -73.9773944256894,40.76376590419001 -73.97736435963292,40.76375280586606 -73.97732084063507,40.76381051923722 -73.97727399461962,40.76379008637877 -73.97724611351366,40.76382705529848 -73.97727524475451,40.76383974175742 -73.97722132073652,40.763911283793455 -73.97719464023734,40.76389967100037 -73.97716968440774,40.76393274294606 -73.97724472695636,40.76396544492722 -73.97712835886954,40.76411975873583 -73.97710522994103,40.76410967819353 -73.9770914987619,40.764127848401635 -73.97684877894305,40.76402204496791 -73.97682040570143,40.76400960283605 -73.9768166266916,40.7640079524856 -73.97698646558074,40.76375876394292 -73.97706137642345,40.76365945489298 -73.97716517211174,40.76352182393935 -73.97744840211128,40.76364531079195 -73.97744099490058,40.76365508062443 -73.97745120579765,40.76365953185068 -73.97746885921529,40.76366721509346</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.40">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98545916435899,40.7509431940014 -73.98530901956917,40.75114708497161 -73.98524714527501,40.75112089217454 -73.98539728658655,40.75091699853901 -73.98545916435899,40.7509431940014</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.41">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.97503940752759,40.75023980595679 -73.97636232099413,40.75079825415734 -73.97601754792395,40.751270606062405 -73.97469461353066,40.75071215393683 -73.97503940752759,40.75023980595679</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.42">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.97722571036616,40.74961694596835 -73.97718962374138,40.74966629488454 -73.97698402346161,40.749577949955 -73.9770193414701,40.749528529585746 -73.97722571036616,40.74961694596835</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.43">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99264704056587,40.75247103513808 -73.99255903259207,40.75259114783588 -73.99239947675062,40.752523932295986 -73.99242579264363,40.75248762652006 -73.9925178269976,40.752350406177335 -73.99256104456887,40.752285959577485 -73.9925758455379,40.752292235023546 -73.99273074892267,40.7523567848788 -73.99268400165512,40.75242058355729 -73.9926502749788,40.75246662453653 -73.99264704056587,40.75247103513808</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.44">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99642402387195,40.76263809718424 -73.99633690818351,40.76275720255293 -73.9962964066174,40.76274007406426 -73.99638401689315,40.7626211745971 -73.99642402387195,40.76263809718424</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.45">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98462348436628,40.73805841166129 -73.98460290226181,40.73808597171455 -73.98460081680747,40.738084818639706 -73.98453436168933,40.73805688736869 -73.98464827491848,40.73790147277151 -73.98471559588491,40.737929777378675 -73.98466971684425,40.737994714867035 -73.98462348436628,40.73805841166129</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.46">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.99420499334322,40.74291042363823 -73.99415432384653,40.74297774980594 -73.9940892203905,40.74294939046641 -73.994138551064,40.74288220698596 -73.99420499334322,40.74291042363823</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.47">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98502538099332,40.756496934832356 -73.98496062179916,40.75646920721469 -73.9848927010357,40.756440131476054 -73.98480926818823,40.75640441411411 -73.98457313606528,40.75630332944951 -73.98473778023087,40.756080980353694 -73.98519735520406,40.75627375712567 -73.98502538099332,40.756496934832356</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                    <innerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.98490728715518,40.756248533704344 -73.98486037892843,40.756308527679685 -73.9850358983539,40.75638782159983 -73.98508275594536,40.75632782754718 -73.98490728715518,40.756248533704344</coordinates>
+                        </LinearRing>
+                    </innerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.48">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.977538952265,40.743255011026854 -73.97753456098637,40.743253162953344 -73.97747876615493,40.743229667972045 -73.97750547957435,40.74319422748562 -73.97753568422938,40.74315414355609 -73.97756771210086,40.74311163635889 -73.97762562491391,40.74313605120037 -73.977538952265,40.743255011026854</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="nyc_buildings.49">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#nyc_buildings_1">
+                        <SimpleData name="bin">0</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <tessellate>1</tessellate>
+                            <coordinates>-73.9940409172671,40.757066934510625 -73.99400550328477,40.757115577786585 -73.99383695879291,40.75704215245679 -73.99387254971933,40.756993588839144 -73.9940409172671,40.757066934510625</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

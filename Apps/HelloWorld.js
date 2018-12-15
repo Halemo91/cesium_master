@@ -7,37 +7,47 @@ console.log('ssssssssss');
 var viewer = new Cesium.Viewer('cesiumContainer', {
    terrainProvider: Cesium.createWorldTerrain()
 });
-
-viewer.scene.globe.depthTestAgainstTerrain = true;
-
-var scene = viewer.scene;
-
-// Set the initial camera view to look at Manhattan
+//
+// viewer.scene.globe.depthTestAgainstTerrain = true;
+//
+ var scene = viewer.scene;
+//
+// // Set the initial camera view to look at Manhattan
 var initialPosition = Cesium.Cartesian3.fromDegrees(-74.01881302800248, 40.69114333714821, 753);
 var initialOrientation = new Cesium.HeadingPitchRoll.fromDegrees(21.27879878293835, -21.34390550872461, 0.0716951918898415);
-viewer.scene.camera.setView({
+var camerView = viewer.scene.camera.setView({
    destination: initialPosition,
    orientation: initialOrientation,
    endTransform: Cesium.Matrix4.IDENTITY
 });
+//
+// var modelMatrix = Cesium.Transforms.eastNorthUpToFixedFrame(
+//     Cesium.Cartesian3.fromDegrees(-74.01881302800248, 40.69114333714821, 753));
+// var model = scene.primitives.add(Cesium.Model.fromGltf({
+//     url : 'GroundVehicle.glb',
+//     modelMatrix : modelMatrix,
+//     scale : 20000.0
+// }));
 
-var modelMatrix = Cesium.Transforms.eastNorthUpToFixedFrame(
-    Cesium.Cartesian3.fromDegrees(-74.01881302800248, 40.69114333714821, 753));
-var model = scene.primitives.add(Cesium.Model.fromGltf({
-    url : 'GroundVehicle.glb',
-    modelMatrix : modelMatrix,
-    scale : 20.0
-}));
-
-
+// viewer.dataSources.add(Cesium.GeoJsonDataSource.load('ne_10m_us_states.geojson', {
+//   stroke: Cesium.Color.HOTPINK,
+//   fill: Cesium.Color.PINK,
+//   strokeWidth: 3,
+//   markerSymbol: '?'
+// }));
 // var kmlDataSource = new Cesium.KmlDataSource();
 // console.log(kmlDataSource)
 // // kmlDataSource.loadUrl('sattawat-nyc_buildings.kml');
 // // viewer.dataSources.add(kmlDataSource);
-// // viewer.dataSources.add(kmlDataSource.fromUrl('sattawat-nyc_buildings.kml'));
- viewer.dataSources.add(Cesium.KmlDataSource.load('FIRSTBUILDING.kml'));
-
-
+ //viewer.dataSources.add(Cesium.KmlDataSource.load('test.kml'));
+ // viewer.dataSources.add(Cesium.KmlDataSource.load('FIRSTBUILDING.kml'));
+ viewer.dataSources.add(Cesium.KmlDataSource.load('odda.kml',
+      {
+           camera: camerView,
+           canvas: viewer.scene.canvas
+      })
+ );
+console.log(Cesium)
 //
 // // Load the NYC buildings tileset
 // var tileset = new Cesium.Cesium3DTileset({ url: Cesium.IonResource.fromAssetId(5741) });
