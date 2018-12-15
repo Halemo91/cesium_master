@@ -46,21 +46,34 @@
 </head>
 
 <body>
-  <div class="container">
+  <div  style="overflow:scroll;    height: -webkit-fill-available;">
 
-  <div class="row">
-        <div class="col-sm-12">
-                 <div id="cesiumContainer"></div>
-       </div>
-        <div class="col-sm-4">h</div>
 
-        <!-- Force next columns to break to new line at md breakpoint and up -->
-        <div class="col-sm-12"></div>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col"></th>
 
-        <div class="col-sm-12"><iframe style="    width: 100%;  height: 550px;" src="/proxy/http://localhost:8080/geoserver/sattawat/wms?service=WMS&version=1.1.0&request=GetMap&layers=sattawat%3Aaha&bbox=606927.781592%2C4502860.39%2C606940.082867%2C4502870.82&width=768&height=651&srs=EPSG%3A2908&format=application/openlayers"></iframe>
-</div>
-        <div class="col-sm-6"><button type="button" class="btn btn-success">Succes22s</button></div>
-</div>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row" style="    width: 50%;">   <div id="cesiumContainer"></div></th>
+      <td><iframe style="    width: 100%;  height: 550px;" src="/proxy/http://localhost:8080/geoserver/sattawat/wms?service=WMS&version=1.1.0&request=GetMap&layers=sattawat%3Aaha&bbox=606927.781592%2C4502860.39%2C606940.082867%2C4502870.82&width=768&height=651&srs=EPSG%3A2908&format=application/openlayers"></iframe></td>
+    </tr>
+    <tr>
+      <td><iframe style="    width: 100%;  height: 550px;" src="/proxy/https://www.google.de/maps/@40.7178881,-74.0022116,3092m/data=!3m1!1e3"></iframe></td>
+      <td>
+        <button type="button" class="btn btn-primary">Next</button>
+        <button type="button" class="btn btn-success">Correct</button>
+        <button type="button" class="btn btn-danger">False</button>
+      </td>
+
+    </tr>
+
+  </tbody>
+</table>
 </div>
 <script src="HelloWorld.js"></script>
 
